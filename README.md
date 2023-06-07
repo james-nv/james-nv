@@ -3,7 +3,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=james-nv)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=james-nv&show_icons=true)
 
 <!---
 - 👋 Hi, I’m @james-nv
